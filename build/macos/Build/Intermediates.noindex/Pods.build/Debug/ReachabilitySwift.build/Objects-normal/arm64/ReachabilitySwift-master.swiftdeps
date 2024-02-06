@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "6043754277ca070e7f81066aa7dc0d16b64fd692c272e3a1d116d3e382d82396"
+build_start_time: [1706834754, 658407000]
+build_end_time: [1706834755, 874891000]
+inputs:
+  "/Users/neilnaik/development/cricket_schedule_app/macos/Pods/ReachabilitySwift/Sources/Reachability.swift": [1706834751, 138929190]

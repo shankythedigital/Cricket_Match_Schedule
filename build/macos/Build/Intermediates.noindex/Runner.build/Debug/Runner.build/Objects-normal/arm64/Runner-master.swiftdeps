@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "2fa9b4421bc18756810ac9fb942734f76aeb10e86968e0bd33098dbd66c58703"
+build_start_time: [1707096931, 529825000]
+build_end_time: [1707096933, 462662000]
+inputs:
+  "/Users/neilnaik/development/cricket_schedule_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1707096925, 460269937]
+  "/Users/neilnaik/development/cricket_schedule_app/macos/Runner/AppDelegate.swift": [1683735221, 0]
+  "/Users/neilnaik/development/cricket_schedule_app/macos/Runner/MainFlutterWindow.swift": [1683735221, 0]
